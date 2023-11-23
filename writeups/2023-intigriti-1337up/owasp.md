@@ -2,7 +2,7 @@
 Everyone knows the OWASP top 10 are vulnerable, I guess this might be too 💀  Author: Ivars Vids  `https://owasp.ctf.intigriti.io`  
 
 ---
-Website shows OWASP Top Ten security risks, containing a search bar ar the top.
+Website shows OWASP Top Ten security risks, containing a search bar at the top.
 
 ![owasp-website-screenshot](owasp-website-screenshot.webp)
 
