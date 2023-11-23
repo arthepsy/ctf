@@ -3,5 +3,5 @@
 // TODO  
 
 ## [writeups](writeups)  
-* [2023 - intigriti 1337UP](2023-intigriti-1337up)  
+* [2023 - intigriti 1337UP](./writeups/2023-intigriti-1337up)  
 
